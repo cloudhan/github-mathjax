@@ -1,8 +1,13 @@
 # About This Fork
 
 Fork from 9fe82ce of https://github.com/Rayquaza01/github-mathjax
+which forks from https://github.com/orsharir/github-mathjax
 
-History is eliminated.
+History is eliminated. I use Mathjax 3.
+
+See for more infomation:
+- http://docs.mathjax.org/en/latest/web/configuration.html
+- http://docs.mathjax.org/en/latest/advanced/typeset.html
 
 # MathJax Plugin for Github (Edge extesion)
 
