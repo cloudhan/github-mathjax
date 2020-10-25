@@ -1,0 +1,9 @@
+# Ignore private keys
+
+*.pem
+
+# Temporary files
+*.*~
+
+# vim
+*.swp
